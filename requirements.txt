@@ -1,0 +1,11 @@
+# Core DL backend
+torch==2.2.2
+numpy<2
+
+# Hugging Face
+transformers>=4.40.0
+pyyaml>=6.0.1
+tqdm>=4.66.0
+
+
+# run task 1: python -m src.task_1_sentiment.quick_run
