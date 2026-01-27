@@ -37,3 +37,6 @@ notebooks/runs/
 
 # ===== Logs =====
 *.log
+
+
+/DeepLearning-Labs-Groups-8/
